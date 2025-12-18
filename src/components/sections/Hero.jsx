@@ -2,7 +2,6 @@ const Hero = () => {
   return (
     <section className="w-full max-w-5xl mx-auto flex flex-col justify-center px-4">
       
-      {/* Intro */}
       <span className="text-blue-600 font-mono text-sm mb-5 animate-fade-in-up">
         Hola, mi nombre es
       </span>
@@ -19,9 +18,9 @@ const Hero = () => {
 
       {/* Descripción */}
       <p className="mt-6 max-w-xl text-lg text-gray-600 dark:text-gray-400 animate-fade-in-up">
-        Soy desarrollador de software enfocado en crear interfaces claras y funcionales desde el frontend, 
-        apoyándome en conocimientos de backend para desarrollar soluciones completas.
-        Cuento con tres años de formación en Tecsup y actualmente busco integrarme a un equipo de desarrollo.
+        Soy desarrollador de software enfocado en crear interfaces claras y funcionales, 
+        con experiencia en frontend y conocimientos de backend para desarrollar soluciones 
+        completas. Actualmente busco integrarme a un equipo de desarrollo.
       </p>
 
       {/* Botón */}
